@@ -1,0 +1,2 @@
+class WordHunter
+end
